@@ -35,23 +35,27 @@ An Instagram-like social media application using ```Django``` that allows multi-
 ## Feature
 ### Set your own profile
   **Description**: You can edit your personal account setting by uploading your ```Profile Image```, ```Bio```, and  ```Location```
+
   <img src="./assets/profile_setting.png" />
   
 ### Upload post
   **Description**: You can post photos and comments on ```Infinity``` using the ```upload pics``` button
+
   <img src="./assets/post.png" />
 
 ### Browse feed / timeline
-**Description**: When you start following people on ```Infinity```, you can see posts popping on your timeline. Now you can like or download others posts when you are browsing the timeline. There is also a suggestion bar ```Users You Can Follow``` that recommends people who uses ```Infinity```
+**Description**: When you start following people on ```Infinity```, you can see posts popping on your timeline. Now you can like or download other's posts when you are browsing the timeline. There is also a suggestion bar ```Users You Can Follow``` that recommends people who uses ```Infinity```
+
   <img src="./assets/feed.jpeg" />
 
-### Browse other users profile
+### Browse other user's profile
 **Description**: Click on the suggestion bar's ```View User``` button, you will be navigated to other user's profile page and see their ```Info``` and ```Posts```
+
 <img src="./assets/other_profile.png" />
 
 
 ### Search other user's profile
-**Description**: ```Infinity``` supports searching feature, you can type any keywords you want to search and get the result of it which is really convenient for searching others profile
+**Description**: ```Infinity``` supports searching feature, you can type any keywords you want to search and get the result of it which is really convenient for searching other's profile
 
 <img src="./assets/search_profile.png" />
 
