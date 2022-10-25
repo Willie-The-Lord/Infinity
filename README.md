@@ -1,4 +1,5 @@
 <h1 align="center">Infinity</h1>
+
 ## About
 An Instagram-like social media application using ```Django``` that allows multi-users to create their own profile, upload/download photos, follow other users and share their own lives. 
 
